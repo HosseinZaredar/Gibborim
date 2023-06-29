@@ -28,7 +28,11 @@
 - [Soroush Mehraban](https://www.youtube.com/@soroushmehraban)
 - [Kapil Sachdeva](https://www.youtube.com/@KapilSachdeva)
 - [Outlier](https://www.youtube.com/@outliier)
+- [YannicKilcher](https://www.youtube.com/@YannicKilcher)
+- [Andrej Karpathy](https://www.youtube.com/@AndrejKarpathy)
 
 ### Websites and Blogs
 - [Distill](https://distill.pub/)
-- []()
+- [ruder.io](https://www.ruder.io/)
+- [Lil'Log](https://lilianweng.github.io/)
+- [Jay Alammar](https://jalammar.github.io/)
