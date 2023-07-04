@@ -12,6 +12,8 @@
 
 ### Papers
 - [NeRF: Representing Scenes as Neural Radiance Fields for View Synthesis](https://arxiv.org/abs/2003.08934)
+- [Attention Is All You Need](https://arxiv.org/abs/1706.03762)
+- [Denoising Diffusion Probabilistic Models](https://arxiv.org/abs/2006.11239)
 - [Segment Anything](https://arxiv.org/abs/2304.02643)
 
 ## Resources
