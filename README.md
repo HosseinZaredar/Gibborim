@@ -9,6 +9,7 @@
 - Attention
 - Diffusion Models
 - GPT Models and ChatGPT
+- Contrastive Loss
 
 ### Papers
 - [NeRF: Representing Scenes as Neural Radiance Fields for View Synthesis](https://arxiv.org/abs/2003.08934)
