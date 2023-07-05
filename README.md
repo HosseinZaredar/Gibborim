@@ -12,6 +12,7 @@
 
 ### Papers
 - [NeRF: Representing Scenes as Neural Radiance Fields for View Synthesis](https://arxiv.org/abs/2003.08934)
+- [Implicit Neural Representations with Periodic Activation Functions](https://arxiv.org/abs/2006.09661)
 - [Attention Is All You Need](https://arxiv.org/abs/1706.03762)
 - [Denoising Diffusion Probabilistic Models](https://arxiv.org/abs/2006.11239)
 - [Segment Anything](https://arxiv.org/abs/2304.02643)
