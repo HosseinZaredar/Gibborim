@@ -1,4 +1,4 @@
-# David's-Mighty-Men
+# Gibborim
 
 ## Done
 - [NeRF: Representing Scenes as Neural Radiance Fields for View Synthesis](/codes/00_NeRF)
