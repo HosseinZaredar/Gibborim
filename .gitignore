@@ -1,2 +1,4 @@
 codes/00_NeRF/training_data.pkl
 codes/00_NeRF/testing_data.pkl
+codes/01_DDPM/MNIST
+codes/01_DDPM/model_ema.pth
