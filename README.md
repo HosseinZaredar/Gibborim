@@ -1,6 +1,16 @@
 # David's-Mighty-Men
 
-## TODO
+## Done
+- [NeRF: Representing Scenes as Neural Radiance Fields for View Synthesis](/codes/00_NeRF)
+- [Denoising Diffusion Probabilistic Models](/codes/01_DDPM)
+
+## Todo
+
+### Papers
+- [Implicit Neural Representations with Periodic Activation Functions](https://arxiv.org/abs/2006.09661)
+- [Attention Is All You Need](https://arxiv.org/abs/1706.03762)
+- [Segment Anything](https://arxiv.org/abs/2304.02643)
+
 ### Topics
 - Energy-based Models
 - Mean Field
@@ -10,13 +20,6 @@
 - Diffusion Models
 - GPT Models and ChatGPT
 - Contrastive Loss
-
-### Papers
-- [NeRF: Representing Scenes as Neural Radiance Fields for View Synthesis](https://arxiv.org/abs/2003.08934)
-- [Implicit Neural Representations with Periodic Activation Functions](https://arxiv.org/abs/2006.09661)
-- [Attention Is All You Need](https://arxiv.org/abs/1706.03762)
-- [Denoising Diffusion Probabilistic Models](https://arxiv.org/abs/2006.11239)
-- [Segment Anything](https://arxiv.org/abs/2304.02643)
 
 ## Resources
 
