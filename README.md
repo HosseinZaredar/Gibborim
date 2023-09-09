@@ -1,4 +1,5 @@
 # Gibborim
+Alfred ([Hossein Zaredar](https://github.com/HosseinZaredar)) and Theodore ([Matin Tavakoli](https://github.com/MatinTavakoli)) attempt to dive into famous deep learning papers and implement them from scratch. The quest begins!
 
 ## Done
 - [NeRF: Representing Scenes as Neural Radiance Fields for View Synthesis](/codes/00_NeRF)
